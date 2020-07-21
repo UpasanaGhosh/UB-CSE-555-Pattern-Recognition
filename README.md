@@ -3,4 +3,4 @@ This repository consists of the coding assignments that were assigned to us as a
 The description and instructions to run each of the projects are as follows:
 
 #### Assignment 1: Bayesian Decision Theory and Fisher Digits
-We need to download and keep the MNIST digit dataset ready for the python file to run. 
+We need to download and keep the MNIST digit dataset ready for the notebook to run. 
